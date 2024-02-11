@@ -17,15 +17,15 @@ Rain Communications Limited is a leading provider of telecommunications solution
 
 ## Getting Started
 
-To start using our services, please contact our sales team at [sales@raincomms.com](mailto:sales@raincomms.com) or give us a call at [1-800-555-1234](tel:18005551234). Our team will be happy to discuss your business needs and provide customized solutions tailored to your requirements.
+To start using our services, please contact our sales team at www.rain.co.ke or give us a call at +254 734 808 882. Our team will be happy to discuss your business needs and provide customized solutions tailored to your requirements.
 
 ## Documentation
 
-For detailed information about our services, configurations, and troubleshooting guides, please refer to our documentation available at [docs.raincomms.com](https://docs.raincomms.com).
+For detailed information about our services, configurations, and troubleshooting guides, please refer to our documentation available at www.rain.co.ke
 
 ## Support
 
-If you have any questions, issues, or require assistance with our services, please reach out to our support team at [support@raincomms.com](mailto:support@raincomms.com) or call us at [1-800-555-5678](tel:18005555678). Our support team is available 24/7 to assist you.
+If you have any questions, issues, or require assistance with our services, please reach out to our support team at [support@raincomms.com](mailto:support@raincomms.com) or call us at +254 734 808 882. Our support team is available 24/7 to assist you.
 
 ## Feedback
 
