@@ -9,20 +9,11 @@ Rain Communications Limited is a leading provider of telecommunications solution
 
 ## Services Offered
 
-### Voice Services
-- Cloud-based PBX systems
-- VoIP solutions
-- SIP trunking
-
 ### Data Services
 - High-speed internet connections
 - Managed network services
 - Data backup and recovery
 
-### Additional Services
-- Unified communications
-- Video conferencing
-- Hosted email solutions
 
 ## Getting Started
 
